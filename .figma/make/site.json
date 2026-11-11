@@ -1,0 +1,10 @@
+{
+  "description": "An AI-powered recruitment platform that helps hiring teams manage resumes, screen candidates, compare explainable match scores, and shortlist top talent faster.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
